@@ -1,10 +1,10 @@
 ## HandiCraft Project
 
-The purpose of our project titled, “The HandiCraft”, is a web application project, which include modern technologies like Node Js, Express Js, HTML, React Js. Most of the Handicrafter could not get desired price for their product and most case a broker or a third party will get most benefit than the actual producer. Also a large area of marketing handicraft product is depending on foreigners but unfortunately our Govt. Could not provide an online sale of such product to a reach of worldwide so that any foreigner can shop the most traditional art from their country. 
+The purpose of our project titled, **“The HandiCraft”**, is a web application project, which include modern technologies like Node Js, Express Js, HTML, React Js. Most of the Handicrafter could not get desired price for their product and most case a broker or a third party will get most benefit than the actual producer. Also a large area of marketing handicraft product is depending on foreigners but unfortunately our Govt. Could not provide an online sale of such product to a reach of worldwide so that any foreigner can shop the most traditional art from their country. 
 
 Handicraft is very important because it represents our culture and tradition. It promotes the heritage of a country through the use of indigenous materials and it preserves traditional knowledge and talents. Whatever talents or skills that you have, can be sold to the customers if it meets the requirement and quality criteria. 
 
-### Feature’s
+### Features
 1. LogIn & SignUp
 2. Menu 
 3. Catalog Browsing 
@@ -22,9 +22,9 @@ Handicraft is very important because it represents our culture and tradition. I
 11. others...
 
 ### Languages
-1. Frontend: HTML, CSS, Bootstrap, React Js
-2. Backend: Node Js, Express Js
-3. Database: Mongo DB
+-  **Frontend:** HTML, CSS, Bootstrap, React Js
+-  **Backend:** Node Js, Express Js
+-  **Database:** Mongo DB
 
 ### Advantages of Online Project
 1. Faster buying/selling procedure, as well as easy to find products. 
