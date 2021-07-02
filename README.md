@@ -4,7 +4,7 @@ The purpose of our project titled, “The HandiCraft”, is a web application pr
 
 Handicraft is very important because it represents our culture and tradition. It promotes the heritage of a country through the use of indigenous materials and it preserves traditional knowledge and talents. Whatever talents or skills that you have, can be sold to the customers if it meets the requirement and quality criteria. 
 
-#### Feature’s
+### Feature’s
 1. LogIn & SignUp
 2. Menu 
 3. Catalog Browsing 
@@ -21,12 +21,12 @@ Handicraft is very important because it represents our culture and tradition. I
 10. Payment Gateway (Stripe)
 11. others...
 
-#### Languages
+### Languages
 1. Frontend: HTML, CSS, Bootstrap, React Js
 2. Backend: Node Js, Express Js
 3. Database: Mongo DB
 
-#### Advantages of Online Project
+### Advantages of Online Project
 1. Faster buying/selling procedure, as well as easy to find products. 
 2. Buying/selling 24/7. 
 3. More reach to customers, there is no theoretical geographic limitations. 
@@ -34,7 +34,7 @@ Handicraft is very important because it represents our culture and tradition. I
 5. No need of physical company set-ups. 
 6. Easy to start and manage a business.
 
-#### Advantages of Handicraft's Project
+### Advantages of Handicraft's Project
 1. Reusability of waste materials
 2. Improves the creativity and skills
 3. Availability of raw materials
