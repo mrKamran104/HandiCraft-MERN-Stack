@@ -1,4 +1,14 @@
-## HandiCraft Project
+# Online HandiCraft Store
+
+## UserPanel Overview
+
+![HandiCraft UserPanel Overview](https://user-images.githubusercontent.com/56494086/130429816-3e0d6c03-caef-4a47-b0be-81370b58fb58.gif "HandiCraft UserPanel Overview")
+
+## AdminPanel Overview
+
+![HandiCraft AdminPanel Overview](https://user-images.githubusercontent.com/56494086/130436135-bf6ff416-2588-44aa-9b8b-a14452b02cfb.gif "HandiCraft AdminPanel Overview")
+
+## HandiCraft Project Intro
 
 The purpose of our project titled, **“The HandiCraft”**, is a web application project, which include modern technologies like Node Js, Express Js, HTML, React Js. Most of the Handicrafter could not get desired price for their product and most case a broker or a third party will get most benefit than the actual producer. Also a large area of marketing handicraft product is depending on foreigners but unfortunately our Govt. Could not provide an online sale of such product to a reach of worldwide so that any foreigner can shop the most traditional art from their country. 
 
