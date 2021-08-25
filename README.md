@@ -2,11 +2,11 @@
 
 ## UserPanel Overview
 
-![HandiCraft UserPanel Overview](https://user-images.githubusercontent.com/56494086/130429816-3e0d6c03-caef-4a47-b0be-81370b58fb58.gif "HandiCraft UserPanel Overview")
+![HandiCraft UserPanel Overview](https://user-images.githubusercontent.com/56494086/130781093-772d8b8d-9a83-423c-a402-2d76838f9ee4.gif "HandiCraft UserPanel Overview")
 
 ## AdminPanel Overview
 
-![HandiCraft AdminPanel Overview](https://user-images.githubusercontent.com/56494086/130436135-bf6ff416-2588-44aa-9b8b-a14452b02cfb.gif "HandiCraft AdminPanel Overview")
+![HandiCraft AdminPanel Overview](https://user-images.githubusercontent.com/56494086/130781006-77bf998e-9b8c-4880-94b7-99cc355a1f45.gif "HandiCraft AdminPanel Overview")
 
 ## HandiCraft Project Intro
 
